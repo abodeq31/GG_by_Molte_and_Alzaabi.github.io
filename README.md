@@ -1,8 +1,8 @@
 <!-- 
-Fucked by !/0Ld Scream
+Fucked by !/0Ld Scream AND MOLTEN
 -->
 
-<!DOCTYPE html>
+
 <html oncontextmenu="return false;" onkeypress="return false;" onkeydown="return false;" onkeyup="return false;">
 <head>
     <title>//:~Hacked By Molten and متوحش ~://</title>
@@ -12,7 +12,7 @@ Fucked by !/0Ld Scream
 		<meta name="keywords" content="!/0Ld Scream, GoTo, Hacked, Touched, Leaked, Pawned, Deface, Website Deface, Defacement" />
         <meta name="copyright"    content="Silent"/>
 		<meta name="description"  content="Silence is the most Powerful Scream"/>
-		<meta property="og:title" content="Hacked by !/0Ld Scream"/>
+		<meta property="og:title" content="Hacked by MOLTEN"/>
 	  	<meta property="og:image" content="https://i.postimg.cc/bYKMxM41/hack-intro.gif">
 	  	<link rel="shortcut icon" type="image/x-icon" href="https://i.postimg.cc/bYKMxM41/hack-intro.gif">
 	
@@ -328,8 +328,8 @@ id="taglines">]</p><br>
 	    <br />
 	</div>
 	<div class="footer">
-	        <a href=" id="pages"><font color="#fff">https://discord.gg/LLLL: </font></a>
-</div>
+	        <font color="#fff">https://discord.gg/LLLL
+
        
     <noscript><meta http-equiv="refresh" content="0; URL="></noscript>
     <script type="text/javascript">
