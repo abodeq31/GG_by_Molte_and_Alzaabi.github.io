@@ -320,7 +320,7 @@ document.oncontextmenu = new Function('alert("~//!/’Molten and متوحش Was 
         <p id="tagline">G0T S3CUR1TY?</p>
 <div class="text">Pawned by ./!/Molten and متوحش</div><br>
         <div id="footer" class="animated bounceIn">
-        <h1 id="greyshadow"> Hhaha <span id="gs1">Fuck You  </span> <span id="gs2">dON't Play With My</span></h1>
+        <h1 id="greyshadow"> Hhaha <span id="gs1">Fuck You  </span> <span id="gs2">dON't Play With Me</span></h1>
         <p id="taglines">\We Are/</p>
         <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> old scream <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> K6 <span id="notag">|</span> Molten <span id="notag">|</span> Ameer <span id="notag">|</span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span
 id="notag"></span> fuck S3CUR1TY <span 
