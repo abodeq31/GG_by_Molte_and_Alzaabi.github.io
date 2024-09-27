@@ -1,24 +1,64 @@
-<!-- 
+<!DOCTYPE html>
+<html lang="en-US" onkeyup="return false;" onkeydown="return false;" onkeypress="return false;" oncontextmenu="return false;"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Hacked By</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="alzaabi.github.io">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://abodeq31.github.io/alzaabi.github.io/">
+<meta property="og:url" content="https://abodeq31.github.io/alzaabi.github.io/">
+<meta property="og:site_name" content="alzaabi.github.io">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="alzaabi.github.io">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"alzaabi.github.io","name":"alzaabi.github.io","url":"https://abodeq31.github.io/alzaabi.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/style.css">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/alzaabi.github.io/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="">~Hacked By Molten and متوحش</a></h1>
+      
+
+      <!-- 
 Fucked by !/0Ld Scream AND MOLTEN
 -->
 
 
-<html oncontextmenu="return false;" onkeypress="return false;" onkeydown="return false;" onkeyup="return false;">
-<head>
+
     <title>//:~Hacked By Molten and متوحش ~://</title>
     <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, user-scalable=0">
-		<meta name="Author"       content="!/0Ld Scream">
-		<meta name="keywords" content="!/0Ld Scream, GoTo, Hacked, Touched, Leaked, Pawned, Deface, Website Deface, Defacement" />
-        <meta name="copyright"    content="Silent"/>
-		<meta name="description"  content="Silence is the most Powerful Scream"/>
-		<meta property="og:title" content="Hacked by MOLTEN"/>
+		<meta name="Author" content="!/0Ld Scream">
+		<meta name="keywords" content="!/0Ld Scream, GoTo, Hacked, Touched, Leaked, Pawned, Deface, Website Deface, Defacement">
+        <meta name="copyright" content="Silent">
+		<meta name="description" content="Silence is the most Powerful Scream">
+		<meta property="og:title" content="Hacked by MOLTEN">
 	  	<meta property="og:image" content="https://i.postimg.cc/bYKMxM41/hack-intro.gif">
-	  	<link rel="shortcut icon" type="image/x-icon" href="https://i.postimg.cc/bYKMxM41/hack-intro.gif">
+	  	<link rel="shortcut icon" type="image/x-icon" href="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/hack-intro.gif">
 	
-	  <link href='http://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/animatecss/3.5.2/animate.min.css"/>
-    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+	  <link href="http://fonts.googleapis.com/css?family=Electrolize" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/animate.min.css">
+    <script src="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/jquery-2.2.4.min.js"></script>
     <style>
         @font-face {
             font-family: 'Silent';
@@ -311,27 +351,23 @@ document.oncontextmenu = clickIE;
 document.oncontextmenu = new Function('alert("~//!/’Molten and متوحش Was Here//~"); return false')	
 </script>
 
-</head>
-<body>
+
+
 	<div class="wrapper">
     <div class="neil">
-    <img src="https://i.postimg.cc/bYKMxM41/hack-intro.gif" width="200"/>
+    <img src="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/hack-intro.gif" width="200">
 </div>
         <p id="tagline">G0T S3CUR1TY?</p>
-<div class="text">Pawned by ./!/Molten and متوحش</div><br>
+<div class="text">Pawned by .!/Alzaabi team</div><br>
         <div id="footer" class="animated bounceIn">
         <h1 id="greyshadow"> Hhaha <span id="gs1">Fuck You  </span> <span id="gs2">dON't Play With Me</span></h1>
         <p id="taglines">\We Are/</p>
-        <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> old scream <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> K6 <span id="notag">|</span> Molten <span id="notag">|</span> Ameer <span id="notag">|</span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span
-id="notag"></span> fuck S3CUR1TY <span 
-id="taglines">]</p><br>
-	    <br />
-	</div>
-	<div class="footer">
-	        <font color="#fff">https://discord.gg/LLLL
+        <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> old scream <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> K6 <span id="notag">|</span> Molten <span id="notag">|</span> Ameer <span id="notag">|</span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span> fuck S3CUR1TY <span id="taglines"><br>
+	    <br></span></p><div class="footer">
+	        <font>https://discord.gg/LLLL
 
        
-    <noscript><meta http-equiv="refresh" content="0; URL="></noscript>
+    <noscript><meta http-equiv="refresh" content="0; URL=" /></noscript>
     <script type="text/javascript">
 class TextScramble {
   constructor(el) {
@@ -442,6 +478,13 @@ var app = {
 
 document.addEventListener('DOMContentLoaded', app.init);
 
-</script>
-</body>
-</html>
+</script></font></div><p></p></div></div>
+
+
+      
+    </div>
+    <script src="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+<div class="animation-container"><span style="right: 9vw; font-size: 10px; animation-duration: 15s;"></span><span style="right: 21vw; font-size: 14px; animation-duration: 11s;"></span><span style="right: 21vw; font-size: 12px; animation-duration: 13s;"></span><span style="right: 27vw; font-size: 15px; animation-duration: 10s;"></span><span style="right: 17vw; font-size: 12px; animation-duration: 13s;"></span><span style="right: 24vw; font-size: 13px; animation-duration: 12s;"></span><span style="right: 27vw; font-size: 21px; animation-duration: 4s;"></span><span style="right: 36vw; font-size: 19px; animation-duration: 6s;"></span><span style="right: 20vw; font-size: 12px; animation-duration: 13s;"></span></div></body></html>
