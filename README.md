@@ -36,7 +36,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <h1><a href="">~Hacked By Molten and متوحش</a></h1>
+      <h1><a href="">~Hacked By Molten </a></h1>
       
 
       <!-- 
@@ -48,8 +48,8 @@ Fucked by !/0Ld Scream AND MOLTEN
     <title>//:~Hacked By Molten and متوحش ~://</title>
     <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, user-scalable=0">
-		<meta name="Author" content="!/0Ld Scream">
-		<meta name="keywords" content="!/0Ld Scream, GoTo, Hacked, Touched, Leaked, Pawned, Deface, Website Deface, Defacement">
+		<meta name="Author" content="Molten">
+		<meta name="keywords" content="Molten, GoTo, Hacked, Touched, Leaked, Pawned, Deface, Website Deface, Defacement">
         <meta name="copyright" content="Silent">
 		<meta name="description" content="Silence is the most Powerful Scream">
 		<meta property="og:title" content="Hacked by MOLTEN">
@@ -355,14 +355,15 @@ document.oncontextmenu = new Function('alert("~//!/’Molten and متوحش Was 
 
 	<div class="wrapper">
     <div class="neil">
-    <img src="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/hack-intro.gif" width="200">
+    <img src="https://cdn.discordapp.com/attachments/1280294550841331845/1285583496940617860/dance-saudi.gif?ex=6702876e&is=670135ee&hm=d0657ce4bb331a287d7996f53c1e48c90dbab9c73d413c77cd9d68f84ec57b96&" width="200">
 </div>
-        <p id="tagline">G0T S3CUR1TY?</p>
+        <p id="tagline"></p>
 <div class="text">Pawned by .!/Alzaabi team</div><br>
         <div id="footer" class="animated bounceIn">
         <h1 id="greyshadow"> Hhaha <span id="gs1">Fuck You  </span> <span id="gs2">dON't Play With Me</span></h1>
         <p id="taglines">\We Are/</p>
-        <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> old scream <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> K6 <span id="notag">|</span> Molten <span id="notag">|</span> Ameer <span id="notag">|</span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span> fuck S3CUR1TY <span id="taglines"><br>
+        <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> Molten <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> K6 <span id="notag">|</span> MjHoL. 
+ <span id="notag">|</span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="taglines"><br>
 	    <br></span></p><div class="footer">
 	        <font>https://discord.gg/LLLL
 
@@ -424,8 +425,8 @@ class TextScramble {
 }
 
 const phrases = [
-  'Pawned by .!/ِAlzaabi team',
   'Pawned by .!/Alzaabi team',
+  'discord.gg/LLLL',
 ]
 
 const el = document.querySelector('.text')
@@ -488,3 +489,10 @@ document.addEventListener('DOMContentLoaded', app.init);
   
 
 <div class="animation-container"><span style="right: 9vw; font-size: 10px; animation-duration: 15s;"></span><span style="right: 21vw; font-size: 14px; animation-duration: 11s;"></span><span style="right: 21vw; font-size: 12px; animation-duration: 13s;"></span><span style="right: 27vw; font-size: 15px; animation-duration: 10s;"></span><span style="right: 17vw; font-size: 12px; animation-duration: 13s;"></span><span style="right: 24vw; font-size: 13px; animation-duration: 12s;"></span><span style="right: 27vw; font-size: 21px; animation-duration: 4s;"></span><span style="right: 36vw; font-size: 19px; animation-duration: 6s;"></span><span style="right: 20vw; font-size: 12px; animation-duration: 13s;"></span></div></body></html>
+ 
+ 
+ <!-- Hidden audio element with autoplay -->
+    <audio autoplay loop style="display: none;">
+        <source src="https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=6702542b&is=670102ab&hm=54653f222d1b894204cdc4bf7ec90ec0e0485b7a952eb591a3c19c47c1c865ba&" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
