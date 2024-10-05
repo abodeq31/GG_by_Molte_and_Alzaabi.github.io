@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US" onkeyup="return false;" onkeydown="return false;" onkeypress="return false;" oncontextmenu="return false;"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Hacked By</title>
+<title>Hacked By </title>
 <meta name="generator" content="Jekyll v3.10.0">
 <meta property="og:title" content="alzaabi.github.io">
 <meta property="og:locale" content="en_US">
