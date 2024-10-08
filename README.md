@@ -10,8 +10,8 @@
 <meta name="generator" content="Jekyll v3.10.0">
 <meta property="og:title" content="">
 <meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://abodeq31.github.io/">
-<meta property="og:url" content="https://abodeq31.github.io/">
+<link rel="canonical" href="https://abodeq31..io/">
+<meta property="og:url" content="https://abodeq31..io/">
 <meta property="og:site_name" content="">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
