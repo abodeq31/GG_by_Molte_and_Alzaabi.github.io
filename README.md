@@ -355,7 +355,7 @@ document.oncontextmenu = new Function('alert("~//!/’Molten and متوحش Was 
 
 	<div class="wrapper">
     <div class="neil">
-    <img src="https://cdn.discordapp.com/attachments/1280294550841331845/1285582967988682865/grd.gif?ex=6705d2b0&is=67048130&hm=079dbb73e7e717579d651980914374e51bb1781d3bc4c261efd2cdf83338f985&" width="200">
+    <img src="https://cdn.discordapp.com/attachments/1280294550841331845/1285583496940617860/dance-saudi.gif?ex=6705d32e&is=670481ae&hm=303f62a1d4b3c3276acd5917c577bedb60147c991039d64ac96fff0e18055ede&" width="200">
 </div>
         <p id="tagline"></p>
 <div class="text">Pawned by .!/Alzaabi team</div><br>
@@ -493,6 +493,6 @@ document.addEventListener('DOMContentLoaded', app.init);
  
  <!-- Hidden audio element with autoplay -->
     <audio autoplay loop style="display: none;">
-        <source src="[https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=6702542b&is=670102ab&hm=54653f222d1b894204cdc4bf7ec90ec0e0485b7a952eb591a3c19c47c1c865ba&" type="audio/mpeg](https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=670648ab&is=6704f72b&hm=0ca8ca9bcc9074c4f4e54b5a30cca7a5573a16149daae76ac3ebfc57073df4c0&)">
+        <source src="https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=670648ab&is=6704f72b&hm=0ca8ca9bcc9074c4f4e54b5a30cca7a5573a16149daae76ac3ebfc57073df4c0&">
         Your browser does not support the audio element.
     </audio>
