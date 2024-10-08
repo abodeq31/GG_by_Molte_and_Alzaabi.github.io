@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="alzaabi.github.io">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
-<meta property="twitter:title" content="alzaabi.github.io">
+<meta property="twitter:title" content=" GG my bro go restart your SERVER">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"alzaabi.github.io","name":"alzaabi.github.io","url":"https://abodeq31.github.io/alzaabi.github.io/"}</script>
 <!-- End Jekyll SEO tag -->
