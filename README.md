@@ -8,16 +8,16 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Hacked By </title>
 <meta name="generator" content="Jekyll v3.10.0">
-<meta property="og:title" content="alzaabi.github.io">
+<meta property="og:title" content="">
 <meta property="og:locale" content="en_US">
-<link rel="canonical" href="https://abodeq31.github.io/alzaabi.github.io/">
-<meta property="og:url" content="https://abodeq31.github.io/alzaabi.github.io/">
-<meta property="og:site_name" content="alzaabi.github.io">
+<link rel="canonical" href="https://abodeq31.github.io/">
+<meta property="og:url" content="https://abodeq31.github.io/">
+<meta property="og:site_name" content="">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content=" GG my bro go restart your SERVER">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"alzaabi.github.io","name":"alzaabi.github.io","url":"https://abodeq31.github.io/alzaabi.github.io/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","headline":".io","name":".io","url":"https:/"}</script>
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="cked%20By%20!_Molten%20and%20%D9%85%D8%AA%D9%88%D8%AD%D8%B4_files/style.css">
