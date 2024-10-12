@@ -355,7 +355,7 @@ document.oncontextmenu = new Function('alert("~//!/’Molten and متوحش Was 
 
 	<div class="wrapper">
     <div class="neil">
-    <img src="https://cdn.discordapp.com/attachments/1280294550841331845/1285583496940617860/dance-saudi.gif?ex=6705d32e&is=670481ae&hm=303f62a1d4b3c3276acd5917c577bedb60147c991039d64ac96fff0e18055ede&" width="200">
+    <img src="https://i.postimg.cc/bYKMxM41/hack-intro.gif" width="200">
 </div>
         <p id="tagline"></p>
 <div class="text">Pawned by .!/Alzaabi team</div><br>
