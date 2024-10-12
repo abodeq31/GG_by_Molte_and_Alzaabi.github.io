@@ -493,6 +493,6 @@ document.addEventListener('DOMContentLoaded', app.init);
  
  <!-- Hidden audio element with autoplay -->
     <audio autoplay loop style="display: none;">
-        <source src="https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=670648ab&is=6704f72b&hm=0ca8ca9bcc9074c4f4e54b5a30cca7a5573a16149daae76ac3ebfc57073df4c0&">
+        <source src="https://cdn.discordapp.com/attachments/1280294550841331845/1291870243374895186/-snap_mg.vc__ezmp3.cc_.mp3?ex=670b8eab&is=670a3d2b&hm=41cdf19c57431c54ff7fcfe2ff6c031f29cfc49c44d5c5de07ca92a9bc6c4801&">
         Your browser does not support the audio element.
     </audio>
