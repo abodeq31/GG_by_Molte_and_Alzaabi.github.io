@@ -40,12 +40,12 @@
       
 
       <!-- 
-Fucked by !/0Ld Scream AND MOLTEN
+Fucked by Alzaabi AND Molten And hecker
 -->
 
 
 
-    <title>//:~Hacked By Molten and متوحش ~://</title>
+    <title>//:~Hacked By MoltenAlzaabi AND Molten And hecker~://</title>
     <meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, user-scalable=0">
 		<meta name="Author" content="Molten">
@@ -362,10 +362,10 @@ document.oncontextmenu = new Function('alert("~//!/’Molten and متوحش Was 
         <div id="footer" class="animated bounceIn">
         <h1 id="greyshadow"> Hhaha <span id="gs1">Fuck You  </span> <span id="gs2">dON't Play With Me</span></h1>
         <p id="taglines">\We Are/</p>
-        <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> Molten <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> K6 <span id="notag">|</span> MjHoL. 
+        <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> Molten <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> heckr <span id="notag">|</span>  
  <span id="notag">|</span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="taglines"><br>
 	    <br></span></p><div class="footer">
-	        <font>https://discord.gg/LLLL
+	        <font>https://discord.gg/uuuu
 
        
     <noscript><meta http-equiv="refresh" content="0; URL=" /></noscript>
@@ -426,7 +426,7 @@ class TextScramble {
 
 const phrases = [
   'Pawned by .!/Alzaabi team',
-  'discord.gg/LLLL',
+  'discord.gg/uuuu',
 ]
 
 const el = document.querySelector('.text')
