@@ -363,7 +363,7 @@ document.oncontextmenu = new Function('alert("~//!/’Molten and متوحش Was 
         <h1 id="greyshadow"> Hhaha <span id="gs1">Fuck You  </span> <span id="gs2">dON't Play With Me</span></h1>
         <p id="taglines">\We Are/</p>
         <p id="tagliness"><span id="taglines">[</span>  <span id="notag"></span> Molten <span id="notag">|</span><span id="notag"></span> ALZAABI <span id="notag">|</span> heckr <span id="notag">|</span>  
- <span id="notag">|</span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="taglines"><br>
+ <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="notag"></span>  <span id="taglines"><br>
 	    <br></span></p><div class="footer">
 	        <font>https://discord.gg/uuuu
 
